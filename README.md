@@ -443,6 +443,13 @@ You can also run specific benchmarks...
          $ ./jmh/run.sh 'org.roaringbitmap.aggregation.and.identical.*'
 
 
+Optimization tips
+-----------------------------
+
+
+- [Some performance tricks when using the RoaringBitmap library](https://richardstartin.github.io/posts/roaringbitmap-performance-tricks)
+
+
 Mailing list/discussion group
 -----------------------------
 
